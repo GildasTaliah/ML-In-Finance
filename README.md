@@ -1,3 +1,5 @@
-# ML-In-Finance
-Machine Learning techniques applied in practice
+# Machine Learning for Finance
+
+A repository for Machine Learning techniques, their applications in fields such as finance, and further learning.  
+
 
